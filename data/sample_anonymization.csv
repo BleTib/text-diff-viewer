@@ -1,0 +1,34 @@
+;Original;Anonymized
+0;"Sehr geehrte Damen und Herren,
+
+die Muster GmbH mit Sitz in Musterstadt bedankt sich für die Zusammenarbeit und bittet Sie, den ausstehenden Betrag zu begleichen.
+
+Bitte überweisen Sie den offenen Betrag auf folgendes Konto:
+IBAN: DE89 1234 5678 1234 5678 90.
+
+Für Rückfragen stehen wir Ihnen gern zur Verfügung.
+Besuchen Sie unsere Website unter www.musterorganisation.de oder schreiben Sie uns an kontakt@musterorganisation.de.
+Telefonisch erreichen Sie uns unter +49 456789.
+Ihr Ansprechpartner ist Herr Max Mustermann. Unsere Büros befinden sich in der Hauptstraße 1, 12345 Musterstadt.
+Bei technischen Anliegen wenden Sie sich bitte an unseren Support oder an die IP-Adresse 192.168.1.1.
+
+Mit freundlichen Grüßen
+
+Max von Mustermann
+Muster GmbH";"Sehr geehrte Damen und Herren,
+
+die <ORGANIZATION_0> mit Sitz in <LOCATION_0> bedankt sich für die Zusammenarbeit und bittet Sie, den ausstehenden Betrag zu begleichen.
+
+Bitte überweisen Sie den offenen Betrag auf folgendes Konto:
+<ORGANIZATION_1>: <IBAN_CODE_0>.
+
+Für Rückfragen stehen wir Ihnen gern zur Verfügung.
+Besuchen Sie unsere Website unter <URL_0> oder schreiben Sie uns an <EMAIL_ADDRESS_0>.
+Telefonisch erreichen Sie uns unter <PHONE_NUMBER_0>.
+Ihr Ansprechpartner ist Herr <PERSON_1>. Unsere Büros befinden sich in der <LOCATION_1> 1, <ZIP_CODE_0> <LOCATION_0>.
+Bei technischen Anliegen wenden Sie sich bitte an unseren Support oder an die IP-Adresse <IP_ADDRESS_0>.
+
+Mit freundlichen Grüßen
+
+<PERSON_0>
+<ORGANIZATION_0>"

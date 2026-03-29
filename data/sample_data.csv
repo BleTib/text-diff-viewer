@@ -1,0 +1,42 @@
+;Original;Modified
+0;"The quick brown fox jumps over the lazy dog. It was a bright sunny morning and the birds were singing in the trees. The gentle breeze carried the scent of fresh flowers across the meadow.";"The quick brown fox leaps over the lazy dog. It was a bright sunny morning and the birds were chirping in the trees. The gentle breeze carried the scent of fresh flowers across the garden."
+1;"Dear Mr. Johnson,
+
+Thank you for your application dated March 15, 2024. We have reviewed your qualifications and are pleased to inform you that you have been selected for an interview.
+
+Please contact our office at (555) 123-4567 to schedule your appointment.
+
+Best regards,
+Human Resources Department";"Dear Mr. Johnson,
+
+Thank you for your application dated March 20, 2024. We have reviewed your qualifications and experience, and are pleased to inform you that you have been shortlisted for an interview.
+
+Please contact our office at (555) 987-6543 to schedule your appointment at your earliest convenience.
+
+Kind regards,
+Human Resources Department"
+2;"def calculate_total(items):
+    total = 0
+    for item in items:
+        total += item.price * item.quantity
+    return total";"def calculate_total(items, tax_rate=0.0):
+    subtotal = 0
+    for item in items:
+        subtotal += item.price * item.quantity
+    tax = subtotal * tax_rate
+    return subtotal + tax"
+3;"The experiment was conducted under controlled laboratory conditions. Temperature was maintained at 22 degrees Celsius throughout the procedure. Results indicate a significant correlation between variables A and B (p < 0.05).";"The experiment was conducted under controlled laboratory conditions. Temperature was maintained at 25 degrees Celsius throughout the procedure. Humidity was kept at 60%. Results indicate a strong correlation between variables A and B (p < 0.01), confirming our initial hypothesis."
+4;"Meeting Notes - Project Alpha
+- Discussed timeline: launch set for Q3
+- Budget approved: $50,000
+- Team lead: Sarah
+- Next meeting: Friday";"Meeting Notes - Project Alpha
+- Discussed timeline: launch moved to Q4
+- Budget approved: $75,000
+- Added QA phase before launch
+- Team lead: Sarah
+- Design review scheduled for Wednesday
+- Next meeting: Monday"
+5;"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.";"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+6;"The company reported revenue of $4.2 million for the fiscal year 2023. Operating expenses totaled $3.1 million, resulting in a net profit of $1.1 million. The board recommends a dividend of $0.50 per share.";"The company reported revenue of $5.8 million for the fiscal year 2024. Operating expenses totaled $3.9 million, resulting in a net profit of $1.9 million. The board recommends a dividend of $0.75 per share and a stock buyback program."
+7;"To make pancakes, mix 1 cup flour, 1 egg, and 1 cup milk. Stir until smooth. Heat a pan over medium heat and pour batter. Cook until bubbles form, then flip. Serve with syrup.";"To make fluffy pancakes, mix 1.5 cups flour, 2 eggs, 1 cup buttermilk, and a pinch of salt. Stir until just combined (lumps are okay). Heat a non-stick pan over medium heat and pour batter. Cook until bubbles form on surface, then flip carefully. Serve with maple syrup and fresh berries."
